@@ -211,10 +211,10 @@ POST /api/admin/products
 Authorization: Bearer <admin-token>
 Content-Type: application/json
 {
-  "name": "iPhone 15 Pro",
-  "description": "Smartphone cao cấp với chip A17 Pro",
+  "name": "Sắt Tấm",
+  "description": "10x20",
   "price": 29999000,
-  "image": "https://example.com/iphone15pro.jpg"
+  "image": "https://example.com/drsxy-uxo.jpg"
 }
 
 ```
